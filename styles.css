@@ -1,0 +1,145 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+
+body {
+  background-color: teal;
+}
+
+h1 {
+  font-size: 4.0rem;
+}
+
+button {
+  z-index: 1;
+}
+
+.line {
+  position: relative;
+  top: 725px;
+  background-color: white;
+  border-style: none;
+  height: 25px;
+  
+}
+
+.line2 {
+  position: relative;
+  top: 680px;
+  background-color: #f9f9f9;
+  border-style: none;
+  height: 100px; 
+  
+}
+
+
+
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* spaces out the items in the nav bar */
+.nav-item {
+  padding: 0 25px;
+}
+
+body {
+  background: white;
+}
+
+
+li {
+  color: white;
+  font-size: 13px;
+  opacity: 70%;
+}
+
+header h1 {
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
+
+.second {
+  background-color: black;
+  position: relative;
+  top: 700px;
+  padding: 15%;
+  text-align: center;
+  color: white;
+}
+
+.sech1 {
+  position: relative;
+  color: white;
+  bottom: 234px;
+  /* top: 50px; */
+  /* left: 36%; */
+}
+
+.third {
+  background-color: #f9f9f9;
+  position: relative;
+  top: 650px;
+  text-align: center;
+}
+
+.thirdText {
+  max-width: 400px;
+  position: absolute;
+  left: 1020px;
+  text-align: right;
+  margin-top: 20px;
+}
+
+footer {
+  position: absolute;
+  text-align: center;
+  /* text appears in the middle of the page so -300 drops the page lower */
+  bottom: -1500px;
+  width: 100%;
+  height: 2.5rem;
+}
+
+footer p, h4 {
+  color: #ccc;
+}
+
+
+.pageTitle {
+  color: black;
+  background-color: white;
+  position: absolute;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.pageTitle p {
+  opacity: 50%;
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+  
+}
+
+.pageTitle a {
+  font-size: 1.2rem;
+  padding: 2%;
+}
+
+.iPic {
+  position: absolute;
+  left: 15%;
+  top: 20%;
+}
+
+.fadedPic {
+  position: absolute;
+  left: 22%;
+  top: 10%;
+}
+
+
