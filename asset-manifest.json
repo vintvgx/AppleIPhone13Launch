@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/AppleIPhone13Launch/static/js/main.ab16acb1.chunk.js",
-    "main.js.map": "/AppleIPhone13Launch/static/js/main.ab16acb1.chunk.js.map",
+    "main.js": "/AppleIPhone13Launch/static/js/main.b576091d.chunk.js",
+    "main.js.map": "/AppleIPhone13Launch/static/js/main.b576091d.chunk.js.map",
     "runtime-main.js": "/AppleIPhone13Launch/static/js/runtime-main.b86be33f.js",
     "runtime-main.js.map": "/AppleIPhone13Launch/static/js/runtime-main.b86be33f.js.map",
     "static/js/2.49fbad38.chunk.js": "/AppleIPhone13Launch/static/js/2.49fbad38.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.b86be33f.js",
     "static/js/2.49fbad38.chunk.js",
-    "static/js/main.ab16acb1.chunk.js"
+    "static/js/main.b576091d.chunk.js"
   ]
 }
