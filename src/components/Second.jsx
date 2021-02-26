@@ -1,4 +1,5 @@
 import React from 'react';
+import fadedIphone from "./pics/fadediphone13.png";
 
 function Second() {
     return (
@@ -10,7 +11,7 @@ function Second() {
                 <button type="button" class="btn btn-primary" href="#S2">Buy</button>
                 </div>
             <div>
-                 <img className="fadedPic" src="./pics/fadediphone13.png" alt="FadedIphone13"/>
+                 <img className="fadedPic" src={fadedIphone} alt="FadedIphone13"/>
                  
              </div>
         </div>

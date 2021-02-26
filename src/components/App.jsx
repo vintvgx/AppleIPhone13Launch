@@ -1,10 +1,15 @@
+// components import
 import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
 import Note from "./Note";
-import Page from "./Page";
 import Second from "./Second";
 import Third from "./Third";
+import Options from "./Options";
+import Fourth from "./Fourth";
+import './App.css';
+
+
 
 function App() {
   return (
@@ -27,6 +32,10 @@ function App() {
       <div>
       <Third />
       </div>
+
+      {/* <div>
+        <Fourth />
+      </div> */}
 
       <div>
         <Footer />

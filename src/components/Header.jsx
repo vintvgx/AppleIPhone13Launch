@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
   return (
-    <nav className="navbar sticky-top navbar-dark navar-expand-lg bg-dark">
+    <nav className="navbar sticky-top navbar-dark navar-expand-lg transparent" id="GPS">
       <div class="container barNav">
         <ul className="nav nav-pills mx-auto">
           <a className="navbar-brand" href="#S2">
@@ -29,10 +29,10 @@ function Header() {
             <a className="nav-link">Support</a>
           </li>
           <li className="nav-item" href="#S2">
-            <a className="nav-link">(Search)</a>
+            <a className="nav-link"><i class="socialIcon fas fa-envelope"></i></a>
           </li>
           <li className="nav-item" href="#S2">
-            <a className="nav-link">(Cart)</a>
+            <a className="nav-link"><i class="fas fa-shopping-cart"></i></a>
           </li>
         </ul>
       </div>

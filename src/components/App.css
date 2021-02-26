@@ -1,0 +1,190 @@
+/********************   ENTIRE HTML STYLE   *****************************/
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+  }
+
+  body {
+    background-color: WHITE;
+  }
+  
+
+  button {
+    z-index: 1;
+  }
+
+   
+  html {
+    font-family: "Montserrat", sans-serif;
+  }
+  
+   /********************  FONT  *****************************/
+
+   h1 {
+    font-size: 4.0rem;
+  }
+  
+  /********************  NAVIGATION  *****************************/
+  #GPS {
+    background-color:black; /*whichever you want*/
+    opacity: 0.8; 
+    filter:(opacity=50);  
+  }
+
+  /* spaces out the items in the nav bar */
+  .nav-item {
+    padding: 0 25px;
+  }
+  
+  
+  .line {
+    position: relative;
+    top: 725px;
+    background-color: white;
+    border-style: none;
+    height: 25px;
+    
+  }
+  
+  .line2 {
+    position: relative;
+    top: 680px;
+    background-color: #f9f9f9;
+    border-style: none;
+    height: 100px; 
+    
+  }
+  
+  li {
+    color: white;
+    font-size: 13px;
+    opacity: 70%;
+  }
+  
+   /********************   FIRST SECTION  *****************************/
+   .pageTitle {
+    color: black;
+    background-color: white;
+    position: absolute;
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+
+  .pageTitle p {
+    opacity: 50%;
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    
+  }
+  
+  .pageTitle a {
+    font-size: 1.2rem;
+    padding: 2%;
+  }
+  
+  .iPic {
+    position: absolute;
+    left: 15%;
+    top: 20%;
+  }
+  
+  header h1 {
+    color: #fff;
+    font-family: "McLaren", cursive;
+    font-weight: 200;
+  }
+  
+  /********************   BUY SECTION  *****************************/
+  .second {
+    background-color: black;
+    position: relative;
+    top: 700px;
+    padding: 15%;
+    text-align: center;
+    color: white;
+  }
+  
+  /* SECOND DIV H1 */
+  .sech1 {
+    position: relative;
+    color: white;
+    bottom: 234px;
+  }
+
+  .fadedPic {
+    position: absolute;
+    left: 22%;
+    top: 10%;
+  }
+  
+  /********************   SPECS SECTION   *****************************/
+  .third {
+    background-color: #f9f9f9;
+    position: relative;
+    top: 650px;
+    text-align: center;
+  }
+  
+  .thirdText {
+    max-width: 400px;
+    position: absolute;
+    left: 1020px;
+    text-align: right;
+    margin-top: 20px;
+  }
+
+
+  /********************   FOURTH SECTION   *****************************/
+  .options {
+      position: relative;
+      /* top: 650px; */
+      top: 800px;
+      left: 100px;
+      background-color: #f9f9f9;
+      border-radius: 25px;
+    position: relative;
+    padding: 25px 15px;
+    background-color: #81ecec;
+    margin: 50px 0;
+    height: 500px;
+    box-shadow: 0 2px 5px #ccc;
+    text-align: left;
+    width: 300px;
+      
+  }
+
+  .options h2, h4, h5 {
+      color: black;
+      text-align: center;
+  }
+
+  .container {
+      columns: 2;
+  }
+  
+
+  /********************   FOOTER  *****************************/
+  footer {
+    position: absolute;
+    text-align: center;
+    /* text appears in the middle of the page so -300 drops the page lower */
+    bottom: -3000px;
+    width: 100%;
+    height: 2.5rem;
+  }
+  
+  footer p, h4 {
+    color: #ccc;
+  }
+  
+ 
+  
+  
+  
+  

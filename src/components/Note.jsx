@@ -1,4 +1,6 @@
 import React from "react";
+import iphone from "./pics/iphone13.png";
+// import iphoneImage from "/pics/iphone.png";
 
 //5. Create a Note.jsx component to show a <div> element with a
 //<h1> for a title and a <p> for the content.
@@ -13,8 +15,7 @@ function Note() {
       <a href="apple.com">Learn More {">"}  </a>
       <a href="apple.com">Buy {">"}</a>
       <div>
-        <img className="iPic" src="./pics/iphone13.png" alt="IPHONE!#"/>
-        <img className="iPic" src="../public/pics/iphone13.png" alt="IPHONE!#"/>
+        <img className="iPic" src={iphone} alt="IPHONE!#"/>
       </div>
     </div>
   );
