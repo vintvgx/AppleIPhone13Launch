@@ -6,7 +6,7 @@ function Header() {
       <div class="container barNav">
         <ul className="nav nav-pills mx-auto">
           <a className="navbar-brand" href="#S2">
-            Bermuda
+          <i class="fab fa-apple"></i>
           </a>
           <li className="nav-item nav-pills nav-fill">
             <a className="nav-link" href="#S2">
@@ -29,7 +29,7 @@ function Header() {
             <a className="nav-link">Support</a>
           </li>
           <li className="nav-item" href="#S2">
-            <a className="nav-link"><i class="socialIcon fas fa-envelope"></i></a>
+            <a className="nav-link"><i class="fas fa-search"></i></a>
           </li>
           <li className="nav-item" href="#S2">
             <a className="nav-link"><i class="fas fa-shopping-cart"></i></a>

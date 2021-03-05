@@ -35,6 +35,21 @@
     filter:(opacity=50);  
   }
 
+  #GPS a {
+    color: white;
+  }
+
+  #GPS a:hover {
+    color: white;
+    opacity: 100%;
+  }
+
+  .navbar-brand {
+    position: relative;
+    right: 30px;
+    bottom: 3px;
+  }
+
   /* spaces out the items in the nav bar */
   .nav-item {
     padding: 0 25px;
@@ -141,21 +156,18 @@
 
 
   /********************   FOURTH SECTION   *****************************/
+  
+
   .options {
       position: relative;
-      /* top: 650px; */
-      top: 800px;
-      left: 100px;
-      background-color: #f9f9f9;
+      top: 750px;
+      left: 250px;
+      background-color: transparent;
       border-radius: 25px;
-    position: relative;
-    padding: 25px 15px;
-    background-color: #81ecec;
-    margin: 50px 0;
-    height: 500px;
-    box-shadow: 0 2px 5px #ccc;
-    text-align: left;
-    width: 300px;
+      padding: 25px 15px;
+      height: 500px;
+      text-align: center;
+      width: 200px;
       
   }
 
@@ -168,6 +180,12 @@
       columns: 2;
   }
   
+  .smPhone {
+    height: 35%;
+    width: 110%;
+    position: relative;
+    
+  }
 
   /********************   FOOTER  *****************************/
   footer {

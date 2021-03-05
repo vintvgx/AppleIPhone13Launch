@@ -33,9 +33,9 @@ function App() {
       <Third />
       </div>
 
-      {/* <div>
+      <div>
         <Fourth />
-      </div> */}
+      </div>
 
       <div>
         <Footer />

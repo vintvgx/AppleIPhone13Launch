@@ -3,7 +3,7 @@ import fadedIphone from "./pics/fadediphone13.png";
 
 function Second() {
     return (
-        <div className="Second">
+        <div className="Second" id="S2">
             <div className="sech1">
                 <h1 style={{marginBottom: "50px"}}>The New and Improved</h1>
                 <h4>iPhone 13 Pro and iPhone 13 Pro Max</h4>
