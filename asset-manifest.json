@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.js": "/AppleIPhone13Launch/static/js/main.85f4a195.chunk.js",
-    "main.js.map": "/AppleIPhone13Launch/static/js/main.85f4a195.chunk.js.map",
+    "main.css": "/AppleIPhone13Launch/static/css/main.0c2f0cba.chunk.css",
+    "main.js": "/AppleIPhone13Launch/static/js/main.d92b59f8.chunk.js",
+    "main.js.map": "/AppleIPhone13Launch/static/js/main.d92b59f8.chunk.js.map",
     "runtime-main.js": "/AppleIPhone13Launch/static/js/runtime-main.b86be33f.js",
     "runtime-main.js.map": "/AppleIPhone13Launch/static/js/runtime-main.b86be33f.js.map",
-    "static/js/2.49fbad38.chunk.js": "/AppleIPhone13Launch/static/js/2.49fbad38.chunk.js",
-    "static/js/2.49fbad38.chunk.js.map": "/AppleIPhone13Launch/static/js/2.49fbad38.chunk.js.map",
+    "static/js/2.f45051e5.chunk.js": "/AppleIPhone13Launch/static/js/2.f45051e5.chunk.js",
+    "static/js/2.f45051e5.chunk.js.map": "/AppleIPhone13Launch/static/js/2.f45051e5.chunk.js.map",
     "index.html": "/AppleIPhone13Launch/index.html",
-    "static/js/2.49fbad38.chunk.js.LICENSE.txt": "/AppleIPhone13Launch/static/js/2.49fbad38.chunk.js.LICENSE.txt"
+    "static/css/main.0c2f0cba.chunk.css.map": "/AppleIPhone13Launch/static/css/main.0c2f0cba.chunk.css.map",
+    "static/js/2.f45051e5.chunk.js.LICENSE.txt": "/AppleIPhone13Launch/static/js/2.f45051e5.chunk.js.LICENSE.txt",
+    "static/media/FOURTHREG.827dc6fb.webp": "/AppleIPhone13Launch/static/media/FOURTHREG.827dc6fb.webp",
+    "static/media/fadediphone13.90739154.png": "/AppleIPhone13Launch/static/media/fadediphone13.90739154.png",
+    "static/media/iphone13.png": "/AppleIPhone13Launch/static/media/iphone13.5fe09b24.png",
+    "static/media/iphone13.c76fc5b3.jpeg": "/AppleIPhone13Launch/static/media/iphone13.c76fc5b3.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.b86be33f.js",
-    "static/js/2.49fbad38.chunk.js",
-    "static/js/main.85f4a195.chunk.js"
+    "static/js/2.f45051e5.chunk.js",
+    "static/css/main.0c2f0cba.chunk.css",
+    "static/js/main.d92b59f8.chunk.js"
   ]
 }
