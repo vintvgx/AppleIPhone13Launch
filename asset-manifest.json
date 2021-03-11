@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/AppleIPhone13Launch/static/css/main.5774d1f0.chunk.css",
-    "main.js": "/AppleIPhone13Launch/static/js/main.701df012.chunk.js",
-    "main.js.map": "/AppleIPhone13Launch/static/js/main.701df012.chunk.js.map",
+    "main.css": "/AppleIPhone13Launch/static/css/main.c1969342.chunk.css",
+    "main.js": "/AppleIPhone13Launch/static/js/main.0ae93820.chunk.js",
+    "main.js.map": "/AppleIPhone13Launch/static/js/main.0ae93820.chunk.js.map",
     "runtime-main.js": "/AppleIPhone13Launch/static/js/runtime-main.b86be33f.js",
     "runtime-main.js.map": "/AppleIPhone13Launch/static/js/runtime-main.b86be33f.js.map",
     "static/js/2.f45051e5.chunk.js": "/AppleIPhone13Launch/static/js/2.f45051e5.chunk.js",
     "static/js/2.f45051e5.chunk.js.map": "/AppleIPhone13Launch/static/js/2.f45051e5.chunk.js.map",
     "index.html": "/AppleIPhone13Launch/index.html",
-    "static/css/main.5774d1f0.chunk.css.map": "/AppleIPhone13Launch/static/css/main.5774d1f0.chunk.css.map",
+    "static/css/main.c1969342.chunk.css.map": "/AppleIPhone13Launch/static/css/main.c1969342.chunk.css.map",
     "static/js/2.f45051e5.chunk.js.LICENSE.txt": "/AppleIPhone13Launch/static/js/2.f45051e5.chunk.js.LICENSE.txt",
     "static/media/FOURTHREG.827dc6fb.webp": "/AppleIPhone13Launch/static/media/FOURTHREG.827dc6fb.webp",
     "static/media/fadediphone13.90739154.png": "/AppleIPhone13Launch/static/media/fadediphone13.90739154.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b86be33f.js",
     "static/js/2.f45051e5.chunk.js",
-    "static/css/main.5774d1f0.chunk.css",
-    "static/js/main.701df012.chunk.js"
+    "static/css/main.c1969342.chunk.css",
+    "static/js/main.0ae93820.chunk.js"
   ]
 }
