@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AppleIPhone13Launch/static/css/main.5774d1f0.chunk.css",
-    "main.js": "/AppleIPhone13Launch/static/js/main.db7fc7b8.chunk.js",
-    "main.js.map": "/AppleIPhone13Launch/static/js/main.db7fc7b8.chunk.js.map",
+    "main.js": "/AppleIPhone13Launch/static/js/main.701df012.chunk.js",
+    "main.js.map": "/AppleIPhone13Launch/static/js/main.701df012.chunk.js.map",
     "runtime-main.js": "/AppleIPhone13Launch/static/js/runtime-main.b86be33f.js",
     "runtime-main.js.map": "/AppleIPhone13Launch/static/js/runtime-main.b86be33f.js.map",
     "static/js/2.f45051e5.chunk.js": "/AppleIPhone13Launch/static/js/2.f45051e5.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b86be33f.js",
     "static/js/2.f45051e5.chunk.js",
     "static/css/main.5774d1f0.chunk.css",
-    "static/js/main.db7fc7b8.chunk.js"
+    "static/js/main.701df012.chunk.js"
   ]
 }
