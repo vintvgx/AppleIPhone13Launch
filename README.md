@@ -10,4 +10,4 @@ React
 
 Live Demo
 
-Check out the live demo [here](https://vintvgx.github.io/AppleIPhone13Launch/#S2)https://vintvgx.github.io/AppleIPhone13Launch/#S2
+Check out the live demo [here](https://vintvgx.github.io/AppleIPhone13Launch/#S2)
